@@ -535,6 +535,8 @@ https://thedaddy.dad/stream/stream-462.php
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.dad/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
@@ -581,6 +583,10 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://thedaddy.dad/stream/stream-574.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
+https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
+https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport",SPORTITALIA PLUS
@@ -595,6 +601,8 @@ https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-logo="" group-title="Sport",ZONA DAZN
+https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 
 # DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -613,8 +621,6 @@ https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
@@ -645,8 +651,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
-#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
-https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -863,8 +867,6 @@ https://thedaddy.dad/stream/stream-853.php
 https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e
 #EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
 https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
-#EXTINF:-1 tvg-id="rai4k.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
-https://vavoo.to/vavoo-iptv/play/2049087681c31592c6b362
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
 https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
@@ -933,7 +935,7 @@ https://thedaddy.dad/stream/stream-870.php
 #EXTINF:-1 tvg-id="italyserieccittadellavsalcione" tvg-name="Soccer | Italy - Serie C : Cittadella vs Alcione (21:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Cittadella_vs_Alcione.png" group-title="Eventi Live",Soccer | Italy - Serie C : Cittadella vs Alcione (21:00)
 https://thedaddy.dad/stream/stream-20.php
 
-#EXTINF:-1 tvg-id="italyseriecprovercellivsalbinoleffe" tvg-name="Soccer | Italy - Serie C : Pro Vercelli vs AlbinoLeffe (21:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/unione-calcio-albinoleffe-logo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Vercelli vs AlbinoLeffe (21:00)
+#EXTINF:-1 tvg-id="italyseriecprovercellivsalbinoleffe" tvg-name="Soccer | Italy - Serie C : Pro Vercelli vs AlbinoLeffe (21:00)" tvg-logo="https://iconape.com/wp-content/files/rl/326129/png/326129.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Vercelli vs AlbinoLeffe (21:00)
 https://thedaddy.dad/stream/stream-21.php
 
 #EXTINF:-1 tvg-id="italyseriecvispesarovsrimini" tvg-name="Soccer | Italy - Serie C : Vis Pesaro vs Rimini (21:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Vis Pesaro_vs_Rimini.png" group-title="Eventi Live",Soccer | Italy - Serie C : Vis Pesaro vs Rimini (21:00)
@@ -951,13 +953,13 @@ https://thedaddy.dad/stream/stream-462.php
 #EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
 https://thedaddy.dad/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/532/non_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
 https://thedaddy.dad/stream/stream-460.php
 
 #EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://i.race-monitor.com/logos/rotax_us_open.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
 https://thedaddy.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://mario.wiki.gallery/images/thumb/c/c8/TSMBM_Logo.png/1200px-TSMBM_Logo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
 https://thedaddy.dad/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="formula1heinekendutchgrandprixpractice1" tvg-name="Motorsport | Formula 1 : Heineken Dutch Grand Prix - Practice 1 (12:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Heineken Dutch Grand Prix - Practice 1 (12:30)
