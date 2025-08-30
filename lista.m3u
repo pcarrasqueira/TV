@@ -35,8 +35,6 @@ https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
 https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
-https://vavoo.to/vavoo-iptv/play/4253692893cca91a1bbfde
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/canale-italia-2-it.png?raw=true" group-title="Altro",CANALE 2
 https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcfjFIqjwxnG9AbEhJ6gwKb6IprmlFnF9aQ&s" group-title="Altro",CANALE 21 EXTRA
@@ -550,8 +548,6 @@ https://thedaddy.dad/stream/stream-460.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
 #EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
 https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
@@ -565,6 +561,8 @@ https://thedaddy.dad/stream/stream-575.php
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
+https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
@@ -585,8 +583,6 @@ https://thedaddy.dad/stream/stream-574.php
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport",SPORTITALIA PLUS
@@ -697,6 +693,8 @@ https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
+#EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
+https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
@@ -992,16 +990,16 @@ https://thedaddy.dad/stream/stream-105.php
 #EXTINF:-1 tvg-id="italyseriebcesenavsvirtusentella" tvg-name="Soccer | Italy - Serie B : Cesena vs Virtus Entella (21:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Cesena_vs_Virtus Entella.png" group-title="Eventi Live",Soccer | Italy - Serie B : Cesena vs Virtus Entella (21:00)
 https://thedaddy.dad/stream/stream-107.php
 
-#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/059/523/722/non_2x/angry-male-fighter-mascot-logo-on-transparent-background-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
 https://thedaddy.dad/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/059/523/722/non_2x/angry-male-fighter-mascot-logo-on-transparent-background-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
 https://thedaddy.dad/stream/stream-462.php
 
 #EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
 https://thedaddy.dad/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/059/523/722/non_2x/angry-male-fighter-mascot-logo-on-transparent-background-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
 https://thedaddy.dad/stream/stream-460.php
 
 #EXTINF:-1 tvg-id="usopenround1day7" tvg-name="Tennis | US Open Round 1 | Day 7 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 7 (16:00)
@@ -1019,13 +1017,13 @@ https://thedaddy.dad/stream/stream-577.php
 #EXTINF:-1 tvg-id="eurobasketitalyvsgeorgia" tvg-name="Basketball | EuroBasket : Italy vs Georgia (14:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230405/original/pngtree-made-in-italy-vector-logo-with-italian-flag-png-image_9027297.png" group-title="Eventi Live",Basketball | EuroBasket : Italy vs Georgia (14:00)
 https://thedaddy.dad/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="lavueltaaespaastage8flat187km1236m" tvg-name="Cycling | La Vuelta a Espa?a: Stage 8 Flat | 187 km | 1236 m (15:00)" tvg-logo="https://www.sportpools.net/dist/images/logos/logo-vuelta.png" group-title="Eventi Live",Cycling | La Vuelta a Espa?a: Stage 8 Flat | 187 km | 1236 m (15:00)
-https://thedaddy.dad/stream/stream-878.php
-
 #EXTINF:-1 tvg-id="ucidownhillworldcupwomenelitehautesavoie" tvg-name="Cycling | UCI Downhill World Cup | Women Elite | Haute Savoie (11:45)" tvg-logo="https://www.roadteamespana.es/wp-content/uploads/elite-women-23.png" group-title="Eventi Live",Cycling | UCI Downhill World Cup | Women Elite | Haute Savoie (11:45)
 https://thedaddy.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="t100triathlonworldtourfrenchrivieramenandwomen" tvg-name="Triathlon | T100 Triathlon World Tour | French Riviera Men and Women (06:45)" tvg-logo="https://t100triathlon.com/wp-content/uploads/2023/10/t100-broadcaster-sitv.png" group-title="Eventi Live",Triathlon | T100 Triathlon World Tour | French Riviera Men and Women (06:45)
+#EXTINF:-1 tvg-id="lavueltaaespaastage8flat187km1236m" tvg-name="Cycling | La Vuelta a Espa?a: Stage 8 Flat | 187 km | 1236 m (15:00)" tvg-logo="https://www.sportpools.net/dist/images/logos/logo-vuelta.png" group-title="Eventi Live",Cycling | La Vuelta a Espa?a: Stage 8 Flat | 187 km | 1236 m (15:00)
+https://thedaddy.dad/stream/stream-878.php
+
+#EXTINF:-1 tvg-id="t100triathlonworldtourfrenchrivieramenandwomen" tvg-name="Triathlon | T100 Triathlon World Tour | French Riviera Men and Women (06:45)" tvg-logo="https://content.protriathletes.org/content/images/2024/09/dc466e8d-a583-4616-be60-d2235deb2e63.png" group-title="Eventi Live",Triathlon | T100 Triathlon World Tour | French Riviera Men and Women (06:45)
 https://thedaddy.dad/stream/stream-878.php
 
 
