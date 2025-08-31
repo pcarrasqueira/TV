@@ -557,8 +557,6 @@ https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
 https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
-https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
 https://thedaddy.dad/stream/stream-575.php
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
@@ -792,6 +790,8 @@ https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 18
 https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 2
+https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 2
 https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 3
 https://vavoo.to/vavoo-iptv/play/15369343494e510eea4a0
@@ -940,7 +940,7 @@ https://thedaddy.dad/stream/stream-165.php
 #EXTINF:-1 tvg-id="italyserieclumezzanevspergolettese" tvg-name="Soccer | Italy - Serie C : Lumezzane vs Pergolettese (15:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Lumezzane_vs_Pergolettese.png" group-title="Eventi Live",Soccer | Italy - Serie C : Lumezzane vs Pergolettese (15:30)
 https://thedaddy.dad/stream/stream-166.php
 
-#EXTINF:-1 tvg-id="bundesligawolfsburgvsmainz05" tvg-name="Soccer | Bundesliga : Wolfsburg vs Mainz 05 (15:30)" tvg-logo="https://toppng.com/uploads/thumbnail/mainz-05-logo-png-11536018612ggdjtj9i7d.png" group-title="Eventi Live",Soccer | Bundesliga : Wolfsburg vs Mainz 05 (15:30)
+#EXTINF:-1 tvg-id="bundesligawolfsburgvsmainz05" tvg-name="Soccer | Bundesliga : Wolfsburg vs Mainz 05 (15:30)" tvg-logo="https://clipart.info/images/ccovers/1503438036mainz-05-logo-png.png" group-title="Eventi Live",Soccer | Bundesliga : Wolfsburg vs Mainz 05 (15:30)
 https://thedaddy.dad/stream/stream-167.php
 
 #EXTINF:-1 tvg-id="englandpremierleagueliverpoolvsarsenal" tvg-name="Soccer | England - Premier League : Liverpool vs Arsenal (17:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Liverpool_vs_Arsenal.png" group-title="Eventi Live",Soccer | England - Premier League : Liverpool vs Arsenal (17:30)
@@ -955,7 +955,7 @@ https://thedaddy.dad/stream/stream-166.php
 #EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsvirtusverona" tvg-name="Soccer | Italy - Serie C : Union ArzignanoChiampo vs Virtus Verona (18:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Union ArzignanoChiampo_vs_Virtus Verona.png" group-title="Eventi Live",Soccer | Italy - Serie C : Union ArzignanoChiampo vs Virtus Verona (18:00)
 https://thedaddy.dad/stream/stream-157.php
 
-#EXTINF:-1 tvg-id="italyseriecpianesevsathleticcarpi" tvg-name="Soccer | Italy - Serie C : Pianese vs Athletic Carpi (18:00)" group-title="Eventi Live",Soccer | Italy - Serie C : Pianese vs Athletic Carpi (18:00)
+#EXTINF:-1 tvg-id="italyseriecpianesevsathleticcarpi" tvg-name="Soccer | Italy - Serie C : Pianese vs Athletic Carpi (18:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTUS_yrvWO5iCUBT2KsiDbL8FIWIU04KbKzmXxM37yVoyTjCvhwj4qgzfVH1ng4c9sQDaxRxPEcbh4oyujH99GN5wgNzsVmTY-YVUVX3_S0N-nhppZeFAIdl8_g4W-YUJAB2B2_u9XalGGT8uPhgwPvuSpRFD4cbDDp87tj-3ptMrf71-a71QCASIs/s512/AC Carpi.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pianese vs Athletic Carpi (18:00)
 https://thedaddy.dad/stream/stream-167.php
 
 #EXTINF:-1 tvg-id="italyseriecpicernovsgiugliano" tvg-name="Soccer | Italy - Serie C : Picerno vs Giugliano (18:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Picerno_vs_Giugliano.png" group-title="Eventi Live",Soccer | Italy - Serie C : Picerno vs Giugliano (18:00)
@@ -1009,22 +1009,22 @@ https://thedaddy.dad/stream/stream-105.php
 #EXTINF:-1 tvg-id="italyseriebbari1908vsmonza" tvg-name="Soccer | Italy - Serie B : Bari 1908 vs Monza (21:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Bari 1908_vs_Monza.png" group-title="Eventi Live",Soccer | Italy - Serie B : Bari 1908 vs Monza (21:00)
 https://thedaddy.dad/stream/stream-106.php
 
-#EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://i.race-monitor.com/logos/rotax_us_open.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
 https://thedaddy.dad/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://i.race-monitor.com/logos/rotax_us_open.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
 https://thedaddy.dad/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://i.race-monitor.com/logos/rotax_us_open.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
 https://thedaddy.dad/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://i.race-monitor.com/logos/rotax_us_open.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
 https://thedaddy.dad/stream/stream-460.php
 
 #EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
 https://thedaddy.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day8" tvg-name="Tennis | US Open Round 1 | Day 8 (16:00)" tvg-logo="https://i.race-monitor.com/logos/rotax_us_open.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 8 (16:00)
 https://thedaddy.dad/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230328/original/pngtree-tennis-us-open-2023-handwriting-png-image_9008024.png" group-title="Eventi Live",Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
@@ -1033,13 +1033,13 @@ https://thedaddy.dad/stream/stream-576.php
 #EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230328/original/pngtree-tennis-us-open-2023-handwriting-png-image_9008024.png" group-title="Eventi Live",Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
 https://thedaddy.dad/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://i0.wp.com/tennesseefundtravel.com/wp-content/uploads/sites/103/2016/08/US-Open-Tennis-Logo.png?ssl=1" group-title="Eventi Live",Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
+#EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230328/original/pngtree-tennis-us-open-2023-handwriting-png-image_9008024.png" group-title="Eventi Live",Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
 https://thedaddy.dad/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://uscourttennis.org/wp-content/uploads/2025/02/205-US-Open-Logo-CROP-1280x1116.png" group-title="Eventi Live",Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
+#EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://uscourttennis.org/wp-content/uploads/2025/02/205-US-Open-Logo-CROP.png" group-title="Eventi Live",Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
 https://thedaddy.dad/stream/stream-460.php
 
-#EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://i0.wp.com/tennesseefundtravel.com/wp-content/uploads/sites/103/2016/08/US-Open-Tennis-Logo.png?ssl=1" group-title="Eventi Live",Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
+#EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://uscourttennis.org/wp-content/uploads/2025/02/205-US-Open-Logo-CROP.png" group-title="Eventi Live",Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
 https://thedaddy.dad/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="2025usopentennismenswomensroundof16" tvg-name="Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230328/original/pngtree-tennis-us-open-2023-handwriting-png-image_9008024.png" group-title="Eventi Live",Tennis | 2025 US Open Tennis Men's & Women's, Round of 16 (21:00)
@@ -1054,7 +1054,7 @@ https://thedaddy.dad/stream/stream-577.php
 #EXTINF:-1 tvg-id="eurobasketbosniaherzegovinavsitaly" tvg-name="Basketball | EuroBasket : Bosnia & Herzegovina vs Italy (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Bosnia & Herzegovina_vs_Italy.png" group-title="Eventi Live",Basketball | EuroBasket : Bosnia & Herzegovina vs Italy (20:30)
 https://thedaddy.dad/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="lavueltaaespanastage9mountain195km3300m" tvg-name="Cycling | La Vuelta a Espana : Stage 9 Mountain | 195 km | 3300 m (15:00)" tvg-logo="https://seeklogo.com/images/V/Vuelta_Espana_2002-logo-DB3873A83F-seeklogo.com.png" group-title="Eventi Live",Cycling | La Vuelta a Espana : Stage 9 Mountain | 195 km | 3300 m (15:00)
+#EXTINF:-1 tvg-id="lavueltaaespanastage9mountain195km3300m" tvg-name="Cycling | La Vuelta a Espana : Stage 9 Mountain | 195 km | 3300 m (15:00)" tvg-logo="https://www.sportpools.net/dist/images/logos/logo-vuelta.png" group-title="Eventi Live",Cycling | La Vuelta a Espana : Stage 9 Mountain | 195 km | 3300 m (15:00)
 https://thedaddy.dad/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="worldcupwomenitalywvssouthafricaw" tvg-name="Rugby Union | World Cup Women : Italy W vs South Africa W (16:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Italy W_vs_South Africa W.png" group-title="Eventi Live",Rugby Union | World Cup Women : Italy W vs South Africa W (16:30)
