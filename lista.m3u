@@ -21,8 +21,6 @@ https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
-https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
 https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV 4K
@@ -61,6 +59,8 @@ https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138
 https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f
 #EXTINF:-1 tvg-id="classica.hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CLA_HD_Logo-CENT-300ppi_CMYK.jpg" group-title="Altro",CLASSICA
 https://vavoo.to/vavoo-iptv/play/640609226bada55274ff
+#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
+https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066
 #EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
 https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV
@@ -115,6 +115,8 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="goldtv.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjSJx2Wah0-hfWbBn4_C79K5I0600lcD8zw&s" group-title="Altro",GOLD TV
 https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.telegranducato.it/wp-content/uploads/img_struttura_sito/logo_granducato_ridotto.png" group-title="Altro",GRANDUCATO
+https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
@@ -247,8 +249,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://thedaddy.dad/stream/stream-881.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-comedy-pt.png?raw=true" group-title="Altro",STAR COMEDY
 https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-life-ar.png?raw=true" group-title="Altro",STAR LIFE
-https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="Altro",STEREO 5 TV
 https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
 #EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/439/74/png-clipart-superman-superhero-drawing-super-man-font-superhero-heart.png" group-title="Altro",SUPER J
@@ -403,8 +403,12 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 1
+https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 2
 https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 5
+https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.italiasera.it/wp-content/uploads/2019/06/Mediaset-640x366.png" group-title="Mediaset",MEDIASET ITALIA
@@ -488,15 +492,13 @@ https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
+https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
-#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
-https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
-#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
-https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
 https://vavoo.to/vavoo-iptv/play/2586615238c67a91af5daa
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
@@ -511,8 +513,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
-#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
-https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -547,8 +547,6 @@ https://thedaddy.dad/stream/stream-862.php
 https://thedaddy.dad/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME+ INVESTIGATION
-https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
@@ -557,6 +555,8 @@ https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
+https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
@@ -773,8 +773,6 @@ https://thedaddy.dad/stream/stream-575.php
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
-https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
@@ -819,6 +817,8 @@ https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 # NEWS
 #EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
 https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
+#EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
+https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
@@ -916,29 +916,8 @@ https://thedaddy.dad/stream/stream-882.php
 #EXTINF:-1 tvg-id="italyseriecforlivsravenna" tvg-name="Soccer | Italy - Serie C : Forli vs Ravenna (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Forli_vs_Ravenna.png" group-title="Eventi Live",Soccer | Italy - Serie C : Forli vs Ravenna (20:30)
 https://thedaddy.dad/stream/stream-870.php
 
-#EXTINF:-1 tvg-id="italyseriecnuovamonterosivspineto" tvg-name="Soccer | Italy - Serie C : Nuova Monterosi vs Pineto (21:00)" tvg-logo="https://www.tuttocalciatori.net/loghisquadre/Logo_Pineto.png" group-title="Eventi Live",Soccer | Italy - Serie C : Nuova Monterosi vs Pineto (21:00)
+#EXTINF:-1 tvg-id="italyseriecnuovamonterosivspineto" tvg-name="Soccer | Italy - Serie C : Nuova Monterosi vs Pineto (21:00)" tvg-logo="https://www.pineto.com/img/slider/bg/b1_lunik_logo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Nuova Monterosi vs Pineto (21:00)
 https://thedaddy.dad/stream/stream-4.php
-
-#EXTINF:-1 tvg-id="usopenround1day9" tvg-name="Tennis | US Open Round 1 | Day 9 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 9 (16:00)
-https://thedaddy.dad/stream/stream-576.php
-
-#EXTINF:-1 tvg-id="usopenround1day9" tvg-name="Tennis | US Open Round 1 | Day 9 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 9 (16:00)
-https://thedaddy.dad/stream/stream-462.php
-
-#EXTINF:-1 tvg-id="usopenround1day9" tvg-name="Tennis | US Open Round 1 | Day 9 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 9 (16:00)
-https://thedaddy.dad/stream/stream-461.php
-
-#EXTINF:-1 tvg-id="usopenround1day9" tvg-name="Tennis | US Open Round 1 | Day 9 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 9 (16:00)
-https://thedaddy.dad/stream/stream-460.php
-
-#EXTINF:-1 tvg-id="usopenround1day9" tvg-name="Tennis | US Open Round 1 | Day 9 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 9 (16:00)
-https://thedaddy.dad/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="usopenround1day9" tvg-name="Tennis | US Open Round 1 | Day 9 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 9 (16:00)
-https://thedaddy.dad/stream/stream-879.php
-
-#EXTINF:-1 tvg-id="worldchampionshipwomenturkeywvssloveniaw" tvg-name="Volleyball | World Championship Women : Turkey W vs Slovenia W (15:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Turkey W_vs_Slovenia W.png" group-title="Eventi Live",Volleyball | World Championship Women : Turkey W vs Slovenia W (15:30)
-https://thedaddy.dad/stream/stream-877.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
