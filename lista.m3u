@@ -257,8 +257,6 @@ https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="Altro",STEREO 5 TV
 https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/439/74/png-clipart-superman-superhero-drawing-super-man-font-superhero-heart.png" group-title="Altro",SUPER J
-https://vavoo.to/vavoo-iptv/play/1284194905df7c12749d48
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBXh88zZx4IvyQKyYd5Hu2yeytO42zNQ4zA&s" group-title="Altro",SUPER TV ARISTANIS
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 #EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="Altro",SUPER TV BRESCIA
@@ -875,8 +873,6 @@ https://thedaddy.dad/stream/stream-853.php
 https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e
 #EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
 https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
-#EXTINF:-1 tvg-id="rai4k.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
-https://vavoo.to/vavoo-iptv/play/2049087681c31592c6b362
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
 https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
@@ -943,19 +939,19 @@ https://thedaddy.dad/stream/stream-462.php
 #EXTINF:-1 tvg-id="worldcupqualifyingslovakiavsgermany" tvg-name="Soccer | World Cup Qualifying : Slovakia vs Germany (20:45)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Slovakia_vs_Germany.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Slovakia vs Germany (20:45)
 https://thedaddy.dad/stream/stream-460.php
 
-#EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
 https://thedaddy.dad/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
 https://thedaddy.dad/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
 https://thedaddy.dad/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/034/624/389/original/july-calendar-date-event-icon-illustration-day-12-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
 https://thedaddy.dad/stream/stream-460.php
 
-#EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
 https://thedaddy.dad/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="usopenround1day12" tvg-name="Tennis | US Open Round 1 | Day 12 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 12 (16:00)
@@ -964,7 +960,7 @@ https://thedaddy.dad/stream/stream-879.php
 #EXTINF:-1 tvg-id="eurobasketitalyvscyprus" tvg-name="Basketball | EuroBasket : Italy vs Cyprus (17:15)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Italy_vs_Cyprus.png" group-title="Eventi Live",Basketball | EuroBasket : Italy vs Cyprus (17:15)
 https://thedaddy.dad/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="lavueltaaespañastage12hilly143km2400m" tvg-name="Cycling | La Vuelta a España: Stage 12 Hilly | 143 km | 2400 m (14:50)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/vuelta-espana-2002-logo-png-transparent.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 12 Hilly | 143 km | 2400 m (14:50)
+#EXTINF:-1 tvg-id="lavueltaaespañastage12hilly143km2400m" tvg-name="Cycling | La Vuelta a España: Stage 12 Hilly | 143 km | 2400 m (14:50)" tvg-logo="https://seeklogo.com/images/V/Vuelta_Espana_2002-logo-DB3873A83F-seeklogo.com.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 12 Hilly | 143 km | 2400 m (14:50)
 https://thedaddy.dad/stream/stream-878.php
 
 
