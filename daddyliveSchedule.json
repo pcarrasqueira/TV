@@ -43,6 +43,26 @@
             },
             {
                 "time": "22:30",
+                "event": "Eagle Raceway",
+                "channels": [
+                    {
+                        "channel_name": "DirtVision PPV",
+                        "channel_id": "5020"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Airborne Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5019"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
                 "event": "2025 Fall Clash at Action Track",
                 "channels": [
                     {
@@ -1797,8 +1817,8 @@
                 ]
             },
             {
-                "time": "22:03",
-                "event": "3:30 Argentina - Primera Nacional : Chaco For Ever vs Chacarita Juniors",
+                "time": "22:00",
+                "event": "Argentina - Primera Nacional : Chaco For Ever vs Chacarita Juniors",
                 "channels": [
                     {
                         "channel_name": "TyC Sports Argentina",
