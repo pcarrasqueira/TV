@@ -117,6 +117,8 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="goldtv.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjSJx2Wah0-hfWbBn4_C79K5I0600lcD8zw&s" group-title="Altro",GOLD TV
 https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.telegranducato.it/wp-content/uploads/img_struttura_sito/logo_granducato_ridotto.png" group-title="Altro",GRANDUCATO
+https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
@@ -525,10 +527,16 @@ https://thedaddy.dad/stream/stream-874.php
 https://thedaddy.dad/stream/stream-875.php
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 256 (D)
 https://thedaddy.dad/stream/stream-876.php
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.dad/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.dad/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
@@ -641,6 +649,8 @@ https://vavoo.to/vavoo-iptv/play/2586615238c67a91af5daa
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
 # BAMBINI
+#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
+https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc
 #EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
 https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
@@ -775,10 +785,6 @@ https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 15
 https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 16
-https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 17
-https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 18
 https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 2
@@ -913,6 +919,15 @@ https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://static.flashscore.com/res/image/data/p6bORFXI-IeQL4K13.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
+https://thedaddy.dad/stream/stream-576.php
+
+#EXTINF:-1 tvg-id="vueltaaespanastage17137obarcodevaldeorrasaltodeelmorrederoponferradahilly137km3370m" tvg-name="Cycling | Vuelta a Espana Stage 17 - 137 O Barco de Valdeorras - Alto de El Morredero.Ponferrada Hilly | 137 km | 3370 m (15:00)" tvg-logo="https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2024/05/29/17170159593974.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 17 - 137 O Barco de Valdeorras - Alto de El Morredero.Ponferrada Hilly | 137 km | 3370 m (15:00)
+https://thedaddy.dad/stream/stream-878.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
