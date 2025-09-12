@@ -457,6 +457,8 @@ https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="Musica",RADIO 51
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="Musica",RADIO CAPITAL
+https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
 #EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
 https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="radionorba.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-norba-tv-it.png?raw=true" group-title="Musica",RADIONORBA TV
@@ -691,8 +693,6 @@ https://thedaddy.dad/stream/stream-862.php
 https://thedaddy.dad/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME+ INVESTIGATION
-https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
@@ -921,6 +921,60 @@ https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyseriebavellinovsmonza" tvg-name="Soccer | Italy - Serie B : Avellino vs Monza (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Avellino_vs_Monza.png" group-title="Eventi Live",Soccer | Italy - Serie B : Avellino vs Monza (20:30)
+https://thedaddy.dad/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="italyseriecospitalettovspergolettese" tvg-name="Soccer | Italy - Serie C : Ospitaletto vs Pergolettese (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Ospitaletto_vs_Pergolettese.png" group-title="Eventi Live",Soccer | Italy - Serie C : Ospitaletto vs Pergolettese (20:30)
+https://thedaddy.dad/stream/stream-187.php
+
+#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsgianaerminio" tvg-name="Soccer | Italy - Serie C : Union ArzignanoChiampo vs Giana Erminio (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Union ArzignanoChiampo_vs_Giana Erminio.png" group-title="Eventi Live",Soccer | Italy - Serie C : Union ArzignanoChiampo vs Giana Erminio (20:30)
+https://thedaddy.dad/stream/stream-188.php
+
+#EXTINF:-1 tvg-id="italyseriecmonopolivsaudacecerignola" tvg-name="Soccer | Italy - Serie C : Monopoli vs Audace Cerignola (20:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/monopoly-logo-png-transparent.png" group-title="Eventi Live",Soccer | Italy - Serie C : Monopoli vs Audace Cerignola (20:30)
+https://thedaddy.dad/stream/stream-189.php
+
+#EXTINF:-1 tvg-id="italyseriecfoggiavslatina" tvg-name="Soccer | Italy - Serie C : Foggia vs Latina (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Foggia_vs_Latina.png" group-title="Eventi Live",Soccer | Italy - Serie C : Foggia vs Latina (20:30)
+https://thedaddy.dad/stream/stream-190.php
+
+#EXTINF:-1 tvg-id="italyseriecfoggiavslatina" tvg-name="Soccer | Italy - Serie C : Foggia vs Latina (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Foggia_vs_Latina.png" group-title="Eventi Live",Soccer | Italy - Serie C : Foggia vs Latina (20:30)
+https://thedaddy.dad/stream/stream-462.php
+
+#EXTINF:-1 tvg-id="italyseriecpotenzacalciovscrotone" tvg-name="Soccer | Italy - Serie C : Potenza Calcio vs Crotone (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Potenza Calcio_vs_Crotone.png" group-title="Eventi Live",Soccer | Italy - Serie C : Potenza Calcio vs Crotone (20:30)
+https://thedaddy.dad/stream/stream-191.php
+
+#EXTINF:-1 tvg-id="bundesligabayerleverkusenvseintrachtfrankfurt" tvg-name="Soccer | Bundesliga : Bayer Leverkusen vs Eintracht Frankfurt (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Bayer Leverkusen_vs_Eintracht Frankfurt.png" group-title="Eventi Live",Soccer | Bundesliga : Bayer Leverkusen vs Eintracht Frankfurt (20:30)
+https://thedaddy.dad/stream/stream-870.php
+
+#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://images.seeklogo.com/logo-png/15/3/wta-comunicacao-logo-png_seeklogo-154118.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
+https://thedaddy.dad/stream/stream-576.php
+
+#EXTINF:-1 tvg-id="moto3gpsanmarinofreepractice" tvg-name="Motorsport | Moto3 : GP San Marino Free Practice (08:55)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : GP San Marino Free Practice (08:55)
+https://thedaddy.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="motogpgpsanmarinofreepractice" tvg-name="Motorsport | MotoGP : GP San Marino Free Practice (09:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : GP San Marino Free Practice (09:00)
+https://thedaddy.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="moto2gpsanmarinofreepractice" tvg-name="Motorsport | Moto2 : GP San Marino Free Practice (09:40)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : GP San Marino Free Practice (09:40)
+https://thedaddy.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="moto3gpsanmarinopractice" tvg-name="Motorsport | Moto3 : GP San Marino Practice (13:10)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : GP San Marino Practice (13:10)
+https://thedaddy.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="motogpgpsanmarinopractice1" tvg-name="Motorsport | MotoGP : GP San Marino Practice 1 (13:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : GP San Marino Practice 1 (13:15)
+https://thedaddy.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="moto2gpsanmarinopractice" tvg-name="Motorsport | Moto2 : GP San Marino Practice (13:55)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : GP San Marino Practice (13:55)
+https://thedaddy.dad/stream/stream-575.php
+
+#EXTINF:-1 tvg-id="ebslsuperfinalitalyvsbelarus" tvg-name="Beach Soccer | EBSL Superfinal : Italy vs Belarus (18:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Italy_vs_Belarus.png" group-title="Eventi Live",Beach Soccer | EBSL Superfinal : Italy vs Belarus (18:00)
+https://thedaddy.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="lavueltaaespanastage19flat159km1500m" tvg-name="Cycling | La Vuelta a Espana: Stage 19 Flat | 159 km | 1500 m (15:00)" tvg-logo="https://www.sportpools.net/dist/images/logos/logo-vuelta.png" group-title="Eventi Live",Cycling | La Vuelta a Espana: Stage 19 Flat | 159 km | 1500 m (15:00)
+https://thedaddy.dad/stream/stream-878.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
