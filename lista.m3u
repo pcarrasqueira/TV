@@ -543,14 +543,14 @@ https://thedaddy.dad/stream/stream-870.php
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
 https://thedaddy.dad/stream/stream-577.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL
+https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (D)
 https://thedaddy.dad/stream/stream-460.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
 #EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
 https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
@@ -603,6 +603,8 @@ https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-logo="" group-title="Sport",ZONA DAZN
+https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 
 # DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -689,14 +691,14 @@ https://thedaddy.dad/stream/stream-862.php
 https://thedaddy.dad/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME+ INVESTIGATION
-https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
@@ -705,6 +707,8 @@ https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
 https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
+https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
 https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
@@ -955,7 +959,7 @@ https://thedaddy.dad/stream/stream-169.php
 #EXTINF:-1 tvg-id="italyseriecpianesevssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Sambenedettese (15:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/u-s-sambenedettese-logo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Sambenedettese (15:00)
 https://thedaddy.dad/stream/stream-170.php
 
-#EXTINF:-1 tvg-id="italyseriecnuovamonterosivsravenna" tvg-name="All Soccer Events | Italy - Serie C : Nuova Monterosi vs Ravenna (15:00)" tvg-logo="https://www.ravenna-network.com/wp-content/uploads/2021/02/STACK-COLOUR.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Nuova Monterosi vs Ravenna (15:00)
+#EXTINF:-1 tvg-id="italyseriecnuovamonterosivsravenna" tvg-name="All Soccer Events | Italy - Serie C : Nuova Monterosi vs Ravenna (15:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/Cs1upg3v80TLEDD/ravenna-2024-logo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Nuova Monterosi vs Ravenna (15:00)
 https://thedaddy.dad/stream/stream-171.php
 
 #EXTINF:-1 tvg-id="bundesligaheidenheimvsborussiadortmund" tvg-name="All Soccer Events | Bundesliga : Heidenheim vs Borussia Dortmund (15:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Heidenheim_vs_Borussia Dortmund.png" group-title="Eventi Live",All Soccer Events | Bundesliga : Heidenheim vs Borussia Dortmund (15:30)
@@ -1006,14 +1010,8 @@ https://thedaddy.dad/stream/stream-870.php
 #EXTINF:-1 tvg-id="englandpremierleaguebrentfordvschelsea" tvg-name="All Soccer Events | England - Premier League : Brentford vs Chelsea (21:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Brentford_vs_Chelsea.png" group-title="Eventi Live",All Soccer Events | England - Premier League : Brentford vs Chelsea (21:00)
 https://thedaddy.dad/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://images.seeklogo.com/logo-png/15/2/wta-comunicacao-logo-png_seeklogo-154118.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
+#EXTINF:-1 tvg-id="guadalajarawtasaopaulowtaearlyrounds" tvg-name="Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://logodix.com/logo/1952378.png" group-title="Eventi Live",Tennis | Guadalajara-WTA & Sao Paulo-WTA Early Rounds (18:00)
 https://thedaddy.dad/stream/stream-576.php
-
-#EXTINF:-1 tvg-id="moto3gpsanmarinopractice2" tvg-name="Motorsport | Moto3 : GP San Marino Practice 2 (08:40)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : GP San Marino Practice 2 (08:40)
-https://thedaddy.dad/stream/stream-575.php
-
-#EXTINF:-1 tvg-id="moto2gpsanmarinopractice2" tvg-name="Motorsport | Moto2 : GP San Marino Practice 2 (09:25)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : GP San Marino Practice 2 (09:25)
-https://thedaddy.dad/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="motogpgpsanmarinopractice2" tvg-name="Motorsport | MotoGP : GP San Marino Practice 2 (10:50)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : GP San Marino Practice 2 (10:50)
 https://thedaddy.dad/stream/stream-575.php
@@ -1021,7 +1019,7 @@ https://thedaddy.dad/stream/stream-575.php
 #EXTINF:-1 tvg-id="moto3gpsanmarinoqualifying" tvg-name="Motorsport | Moto3 : GP San Marino Qualifying (12:50)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : GP San Marino Qualifying (12:50)
 https://thedaddy.dad/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2gpsanmarinoqualifying" tvg-name="Motorsport | Moto2 : GP San Marino Qualifying (13:40)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : GP San Marino Qualifying (13:40)
+#EXTINF:-1 tvg-id="moto2gpsanmarinoqualifying" tvg-name="Motorsport | Moto2 : GP San Marino Qualifying (13:40)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : GP San Marino Qualifying (13:40)
 https://thedaddy.dad/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="motogpgpsanmarinosprintrace" tvg-name="Motorsport | MotoGP : GP San Marino Sprint Race (14:45)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : GP San Marino Sprint Race (14:45)
@@ -1029,9 +1027,6 @@ https://thedaddy.dad/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="vueltaaespanastage20mountain156km4220m" tvg-name="Cycling | Vuelta a Espana Stage 20 Mountain | 156 km | 4220 m (12:45)" tvg-logo="http://recorrido2023.presentacionvuelta.es/wp-content/uploads/2022/12/recorrido_oficial_lavuelta2023.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 20 Mountain | 156 km | 4220 m (12:45)
 https://thedaddy.dad/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="rugbychampionshipnewzealandvssouthafrica" tvg-name="Rugby Union | Rugby Championship : New Zealand vs South Africa (09:05)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/south-africa-logo-png-transparent.png" group-title="Eventi Live",Rugby Union | Rugby Championship : New Zealand vs South Africa (09:05)
-https://thedaddy.dad/stream/stream-462.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
