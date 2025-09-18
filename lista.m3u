@@ -127,6 +127,8 @@ https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
+#EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Altro",IRIS
+https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
@@ -333,8 +335,6 @@ https://vavoo.to/vavoo-iptv/play/2310699492314ea68def19
 https://vavoo.to/vavoo-iptv/play/3709706813e7a46de6436d
 #EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0d/Logo_di_TV2000.png" group-title="Altro",TV 2000
 https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0013/3844/brand.gif?itok=54JkEUiu" group-title="Altro",TV 33
-https://vavoo.to/vavoo-iptv/play/3506302655fa083aabc726
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
 https://vavoo.to/vavoo-iptv/play/40383657201f43ce81681d
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
@@ -481,8 +481,6 @@ https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://thedaddy.dad/stream/stream-877.php
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
@@ -539,8 +537,12 @@ https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 https://thedaddy.dad/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
+#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
+https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
 https://thedaddy.dad/stream/stream-577.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL
+https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL
 https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (D)
@@ -555,8 +557,6 @@ https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
 https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
-https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
 https://thedaddy.dad/stream/stream-575.php
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
@@ -657,6 +657,8 @@ https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 #EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
 https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
+#EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
+https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO
@@ -771,8 +773,6 @@ https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
 https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 10
 https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 12
-https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 14
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 15
@@ -908,6 +908,8 @@ https://vavoo.to/vavoo-iptv/play/788387936f9a9f4a81c4
 #EXTINF:-1 tvg-id="raistoria.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai",RAI STORIA
 https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
+https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
@@ -946,13 +948,13 @@ https://thedaddy.dad/stream/stream-461.php
 #EXTINF:-1 tvg-id="bjkcupfinalsquarterfinalsusavkazjpnvgbrseoulwtachengduatp" tvg-name="Tennis | BJK Cup Finals Quarterfinals USA v. KAZ & JPN v. GBR; Seoul-WTA & Chengdu-ATP (12:00)" tvg-logo="https://images.seeklogo.com/logo-png/1/3/bjk-besiktas-istanbul-60s-70s-logo-png_seeklogo-19992.png?v=1954754504785107400" group-title="Eventi Live",Tennis | BJK Cup Finals Quarterfinals USA v. KAZ & JPN v. GBR; Seoul-WTA & Chengdu-ATP (12:00)
 https://thedaddy.dad/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="worldsnookersnookerenglishopen" tvg-name="Snooker | World Snooker - Snooker English Open (14:00)" tvg-logo="https://img.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Eventi Live",Snooker | World Snooker - Snooker English Open (14:00)
+#EXTINF:-1 tvg-id="worldsnookersnookerenglishopen" tvg-name="Snooker | World Snooker - Snooker English Open (14:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/0gmkgj1555600537.png" group-title="Eventi Live",Snooker | World Snooker - Snooker English Open (14:00)
 https://thedaddy.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="worldsnookersnookerenglishopen" tvg-name="Snooker | World Snooker - Snooker English Open (20:00)" tvg-logo="https://img.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Eventi Live",Snooker | World Snooker - Snooker English Open (20:00)
+#EXTINF:-1 tvg-id="worldsnookersnookerenglishopen" tvg-name="Snooker | World Snooker - Snooker English Open (20:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/0gmkgj1555600537.png" group-title="Eventi Live",Snooker | World Snooker - Snooker English Open (20:00)
 https://thedaddy.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="worldchampionshipstokyoday6session1" tvg-name="Athletics | World Championships Tokyo | Day 6 | Session 1 (12:00)" tvg-logo="https://images.ctfassets.net/wn7ipiv9ue5v/ft7Rn2Gvc3GyqZ6DDwxfG/f6344f11f04b9cf4b8e3905b51f0cac2/Energy_00_01.png" group-title="Eventi Live",Athletics | World Championships Tokyo | Day 6 | Session 1 (12:00)
+#EXTINF:-1 tvg-id="worldchampionshipstokyoday6session1" tvg-name="Athletics | World Championships Tokyo | Day 6 | Session 1 (12:00)" tvg-logo="https://archives.bulbagarden.net/media/upload/thumb/f/fc/2023_Pokémon_World_Championships_logo.png/1200px-2023_Pokémon_World_Championships_logo.png" group-title="Eventi Live",Athletics | World Championships Tokyo | Day 6 | Session 1 (12:00)
 https://thedaddy.dad/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="tourofslovakiastage2mensvidnikkoice1706km" tvg-name="Cycling | Tour of Slovakia | Stage 2 Men | Svidnik - Košice (170.6km) (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Slovakia | Stage 2 Men | Svidnik - Košice (170.6km) (13:00)
