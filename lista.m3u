@@ -145,6 +145,8 @@ https://vavoo.to/vavoo-iptv/play/84139639718d779a091b
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7d.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
 https://vavoo.to/vavoo-iptv/play/881846038948178d71a68
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lac-tv-it.png?raw=true" group-title="Altro",LA C TV
@@ -159,6 +161,8 @@ https://thedaddy.dad/stream/stream-855.php
 https://thedaddy.dad/stream/stream-856.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",MARIA+VISION ITALIA
+https://vavoo.to/vavoo-iptv/play/364832494563359ab623df
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
@@ -241,6 +245,8 @@ https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
+https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
 https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (D)
@@ -593,6 +599,8 @@ https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-logo="" group-title="Sport",ZONA DAZN
+https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 
 # DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -1013,9 +1021,6 @@ https://thedaddy.dad/stream/stream-577.php
 #EXTINF:-1 tvg-id="fimenduranceworldchampionshipboldorcareerpart1" tvg-name="Motorsport | FIM Endurance World Championship | Bol d'Or Career | Part 1 (16:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Motorsport | FIM Endurance World Championship | Bol d'Or Career | Part 1 (16:15)
 https://thedaddy.dad/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="worldchampionshipboldorcareer" tvg-name="Motorsport | World Championship | Bol d'Or Career (02:00)" tvg-logo="https://asia.pokemon-card.com/ph/wp-content/uploads/sites/6/2022/09/EN_news_WC22_logo_spot_Spot.png" group-title="Eventi Live",Motorsport | World Championship | Bol d'Or Career (02:00)
-https://thedaddy.dad/stream/stream-879.php
-
 #EXTINF:-1 tvg-id="worldsnookersnookerenglishopen" tvg-name="Snooker | World Snooker - Snooker English Open (14:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/0gmkgj1555600537.png" group-title="Eventi Live",Snooker | World Snooker - Snooker English Open (14:00)
 https://thedaddy.dad/stream/stream-878.php
 
@@ -1023,9 +1028,6 @@ https://thedaddy.dad/stream/stream-878.php
 https://thedaddy.dad/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="worldchampionshipstokyoday8session2" tvg-name="Athletics | World Championships Tokyo | Day 8 | Session 2 (12:00)" tvg-logo="http://www.wffasia.jp/cdn/shop/files/Photoroom_20250203_094115.png?v=1738989690" group-title="Eventi Live",Athletics | World Championships Tokyo | Day 8 | Session 2 (12:00)
-https://thedaddy.dad/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="worldchampionshipstokyoday9session1" tvg-name="Athletics | World Championships Tokyo | Day 9 | Session 1 (01:00)" tvg-logo="https://champoffroad.com/wp-content/uploads/2025_SCHEDULE_TILE_07_CRANDON.png" group-title="Eventi Live",Athletics | World Championships Tokyo | Day 9 | Session 1 (01:00)
 https://thedaddy.dad/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="theoceanraceeuropebokabaycoastalrace" tvg-name="Sailing / Boating | The Ocean Race Europe | Boka Bay Coastal Race (14:00)" tvg-logo="https://www.camisetasecologicas.es/wp-content/uploads/the-ocean-race-logo-1.png" group-title="Eventi Live",Sailing / Boating | The Ocean Race Europe | Boka Bay Coastal Race (14:00)
