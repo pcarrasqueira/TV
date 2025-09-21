@@ -95,6 +95,8 @@ https://vavoo.to/vavoo-iptv/play/273312373c6b3b01f31cf
 https://vavoo.to/vavoo-iptv/play/422225837740225c1416e8
 #EXTINF:-1 tvg-id="" tvg-logo="https://prolocopesarourbino.it/wp-content/uploads/2019/07/FANO-TV.jpg" group-title="Altro",FANO TV
 https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d
+#EXTINF:-1 tvg-id="fashion.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/fashion-tv-int.png?raw=true" group-title="Altro",FASHION TV
+https://vavoo.to/vavoo-iptv/play/3028319308fc52849f3d94
 #EXTINF:-1 tvg-id="fashion.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/fashion-tv-int.png?raw=true" group-title="Altro",FASHIONTV
 https://vavoo.to/vavoo-iptv/play/3255207570b230d786fb10
 #EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Altro",FOCUS
@@ -681,6 +683,8 @@ https://thedaddy.dad/stream/stream-862.php
 https://thedaddy.dad/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME+ INVESTIGATION
+https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
@@ -727,8 +731,6 @@ https://thedaddy.dad/stream/stream-867.php
 https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://thedaddy.dad/stream/stream-866.php
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -767,8 +769,6 @@ https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 14
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 15
-https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 16
 https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 17
@@ -807,8 +807,6 @@ https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 9
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
-#EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE
-https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://thedaddy.dad/stream/stream-880.php
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film - Serie TV",TOP CRIME
@@ -871,8 +869,6 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -1037,7 +1033,7 @@ https://thedaddy.dad/stream/stream-577.php
 #EXTINF:-1 tvg-id="formula1qatarairwaysazerbaijangpgrandprixsunday" tvg-name="Motorsport | Formula 1 : Qatar Airways Azerbaijan GP - Grand Prix Sunday (12:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/04/F1-Formula-One-Logo-300x300.png" group-title="Eventi Live",Motorsport | Formula 1 : Qatar Airways Azerbaijan GP - Grand Prix Sunday (12:00)
 https://thedaddy.dad/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysazerbaijangprace" tvg-name="Motorsport | Formula 1 : Qatar Airways Azerbaijan GP - Race (13:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/04/F1-Formula-One-Logo-300x300.png" group-title="Eventi Live",Motorsport | Formula 1 : Qatar Airways Azerbaijan GP - Race (13:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysazerbaijangprace" tvg-name="Motorsport | Formula 1 : Qatar Airways Azerbaijan GP - Race (13:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Qatar Airways Azerbaijan GP - Race (13:00)
 https://thedaddy.dad/stream/stream-577.php
 
 #EXTINF:-1 tvg-id="worldchampionshipboldorcareer" tvg-name="Motorsport | World Championship | Bol d'Or Career (13:15)" tvg-logo="https://asia.pokemon-card.com/ph/wp-content/uploads/sites/6/2022/09/EN_news_WC22_logo_spot_Spot.png" group-title="Eventi Live",Motorsport | World Championship | Bol d'Or Career (13:15)
@@ -1058,7 +1054,7 @@ https://thedaddy.dad/stream/stream-878.php
 #EXTINF:-1 tvg-id="uciroadworldchampionshipsmenselitetimetrial" tvg-name="Cycling | UCI Road World Championships Mens Elite Time Trial (13:30)" tvg-logo="https://corporate.deporvillage.net/wp-content/uploads/2021/08/logo_flanders_web_corporativa_eventos_patrocinados.png" group-title="Eventi Live",Cycling | UCI Road World Championships Mens Elite Time Trial (13:30)
 https://thedaddy.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="leagueofnationsshowjumpingsainttropez" tvg-name="Equestrian | League of Nations Show jumping | Saint-Tropez (16:25)" tvg-logo="https://www.portsainttropez.com/wp-content/uploads/2022/05/VILLE-PNG-OK.png" group-title="Eventi Live",Equestrian | League of Nations Show jumping | Saint-Tropez (16:25)
+#EXTINF:-1 tvg-id="leagueofnationsshowjumpingsainttropez" tvg-name="Equestrian | League of Nations Show jumping | Saint-Tropez (16:25)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Equestrian | League of Nations Show jumping | Saint-Tropez (16:25)
 https://thedaddy.dad/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="grandprixvaldifiemmehs143superteam" tvg-name="Ski Jumping | Grand Prix | Val di Fiemme HS 143 Super Team (16:45)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/grand-prix-logo-png-transparent.png" group-title="Eventi Live",Ski Jumping | Grand Prix | Val di Fiemme HS 143 Super Team (16:45)
