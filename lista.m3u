@@ -226,6 +226,8 @@ https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
@@ -479,8 +481,6 @@ https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://thedaddy.dad/stream/stream-877.php
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
@@ -621,6 +621,8 @@ https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
@@ -755,6 +757,8 @@ https://thedaddy.dad/stream/stream-864.php
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://thedaddy.dad/stream/stream-860.php
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -877,6 +881,8 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -942,7 +948,7 @@ https://thedaddy.dad/stream/stream-23.php
 #EXTINF:-1 tvg-id="italyseriecpianesevsarezzo" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)" tvg-logo="https://www.stradadelvino.arezzo.it/wp-content/uploads/2019/02/logo_strada.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)
 https://thedaddy.dad/stream/stream-870.php
 
-#EXTINF:-1 tvg-id="italyseriecjuventusiivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)" tvg-logo="https://logodetimes.com/times/juventus/logo-juventus-8192.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)
+#EXTINF:-1 tvg-id="italyseriecjuventusiivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)" tvg-logo="https://fastpng.com/images/file/juventus-logo-png-9o9rjqann4ojt6ua.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)
 https://thedaddy.dad/stream/stream-24.php
 
 #EXTINF:-1 tvg-id="italyseriecbravslivorno" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Livorno (20:45)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Bra_vs_Livorno.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Bra vs Livorno (20:45)
@@ -969,10 +975,7 @@ https://thedaddy.dad/stream/stream-8.php
 #EXTINF:-1 tvg-id="atp250chengduatp250hangzhou" tvg-name="Tennis | ATP 250 Chengdu, ATP 250 Hangzhou (13:00)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live",Tennis | ATP 250 Chengdu, ATP 250 Hangzhou (13:00)
 https://thedaddy.dad/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://www.phenomenalglobe.com/wp-content/uploads/2019/12/Tokyo-Tower-at-night.jpg" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)
-https://thedaddy.dad/stream/stream-576.php
-
-#EXTINF:-1 tvg-id="juniorworldchampionshipstimetrialfkigalikigali18km" tvg-name="Cycling | Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Escudo_de_Atlético_Junior.svg/1200px-Escudo_de_Atlético_Junior.svg.png" group-title="Eventi Live",Cycling | Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)
+#EXTINF:-1 tvg-id="juniorworldchampionshipstimetrialfkigalikigali18km" tvg-name="Cycling | Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)" tvg-logo="https://kigaliairporttransfers.com/wp-content/uploads/2022/12/get-logo-whatsapp-png-pictures-1.png" group-title="Eventi Live",Cycling | Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)
 https://thedaddy.dad/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="juniorworldchampionshipstimetrialfkigalikigali18km" tvg-name="Cycling | Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)" tvg-logo="https://kigaliairporttransfers.com/wp-content/uploads/2022/12/get-logo-whatsapp-png-pictures-1.png" group-title="Eventi Live",Cycling | Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)
