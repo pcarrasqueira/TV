@@ -535,8 +535,12 @@ https://thedaddy.dad/stream/stream-462.php
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.dad/stream/stream-870.php
+#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
+https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
 https://thedaddy.dad/stream/stream-577.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL
+https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (D)
 https://thedaddy.dad/stream/stream-460.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -555,8 +559,6 @@ https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 https://thedaddy.dad/stream/stream-575.php
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
-#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
-https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
 https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
@@ -691,8 +693,6 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
-https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
@@ -759,8 +759,6 @@ https://thedaddy.dad/stream/stream-860.php
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (D)
 https://thedaddy.dad/stream/stream-863.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
-https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
 https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 10
@@ -942,7 +940,7 @@ https://thedaddy.dad/stream/stream-575.php
 #EXTINF:-1 tvg-id="moto2grandprixofjapanpractice1" tvg-name="Motorsport | Moto 2 : Grand Prix of Japan Practice 1 (07:00)" tvg-logo="https://www.gresiniracing.com/wp-content/themes/gresini-racing-2025/images/moto2-gresini-2025.png" group-title="Eventi Live",Motorsport | Moto 2 : Grand Prix of Japan Practice 1 (07:00)
 https://thedaddy.dad/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto3grandprixofjapanfreepractice2" tvg-name="Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)
+#EXTINF:-1 tvg-id="moto3grandprixofjapanfreepractice2" tvg-name="Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)" tvg-logo="https://img.vavel.com/moto3-logo-1709039096731.png" group-title="Eventi Live",Motorsport | Moto 3 : Grand Prix of Japan Free Practice 2 (02:30)
 https://thedaddy.dad/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="moto2grandprixofjapanfreepractice2" tvg-name="Motorsport | Moto 2 : Grand Prix of Japan Free Practice 2 (02:30)" tvg-logo="https://www.gresiniracing.com/wp-content/themes/gresini-racing-2025/images/moto2-gresini-2025.png" group-title="Eventi Live",Motorsport | Moto 2 : Grand Prix of Japan Free Practice 2 (02:30)
@@ -954,7 +952,7 @@ https://thedaddy.dad/stream/stream-575.php
 #EXTINF:-1 tvg-id="seriea2cividalevsverona" tvg-name="Basketball | Serie A2 : Cividale vs Verona (20:45)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Cividale_vs_Verona.png" group-title="Eventi Live",Basketball | Serie A2 : Cividale vs Verona (20:45)
 https://thedaddy.dad/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="mensspeedfinalworldchampionshipsseoul" tvg-name="Climbing | Men's Speed | Final World Championships | Seoul (12:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Climbing | Men's Speed | Final World Championships | Seoul (12:00)
+#EXTINF:-1 tvg-id="mensspeedfinalworldchampionshipsseoul" tvg-name="Climbing | Men's Speed | Final World Championships | Seoul (12:00)" tvg-logo="https://www.letsrun.com/wp-content/uploads/2023/07/2023_World_Athletics_Championships_logo.svg_-768x732.png" group-title="Eventi Live",Climbing | Men's Speed | Final World Championships | Seoul (12:00)
 https://thedaddy.dad/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="worldchampionshipsseoulwomensbouldersemifinal" tvg-name="Climbing | World Championships | Seoul Women's Boulder | Semi-Final (03:00)" tvg-logo="https://allsportdb.com/Images/Logo/Large/Competitions/525.png" group-title="Eventi Live",Climbing | World Championships | Seoul Women's Boulder | Semi-Final (03:00)
