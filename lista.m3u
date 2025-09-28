@@ -71,6 +71,8 @@ https://vavoo.to/vavoo-iptv/play/1322483308506652cfc631
 https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arvedi.it/fileadmin/user_upload/istituzionale/gruppo-arvedi-e-informazione-logo-Cremona1.png" group-title="Altro",CREMONA 1
 https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/c2HegRLQmaQFJXROyFH-phglfaZzQ-vikbZ464ZVJGfW8kX9jQuLACb2TIlydv1apsg" group-title="Altro",CUSANO ITALIA TV
+https://vavoo.to/vavoo-iptv/play/315609263941db18c5ca85
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX
 https://vavoo.to/vavoo-iptv/play/3008151733b9915486ff45
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX
@@ -143,6 +145,8 @@ https://vavoo.to/vavoo-iptv/play/84139639718d779a091b
 https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7d.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
 https://vavoo.to/vavoo-iptv/play/881846038948178d71a68
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lac-tv-it.png?raw=true" group-title="Altro",LA C TV
@@ -617,6 +621,8 @@ https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
@@ -683,6 +689,8 @@ https://thedaddy.dad/stream/stream-862.php
 https://thedaddy.dad/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME+ INVESTIGATION
+https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
@@ -958,10 +966,10 @@ https://thedaddy.dad/stream/stream-462.php
 #EXTINF:-1 tvg-id="italyserieccrotonevscasertana" tvg-name="Soccer | Italy - Serie C : Crotone vs Casertana (15:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Crotone_vs_Casertana.png" group-title="Eventi Live",Soccer | Italy - Serie C : Crotone vs Casertana (15:00)
 https://thedaddy.dad/stream/stream-154.php
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovssalernitana" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Salernitana (15:00)" tvg-logo="https://salernitana.b-cdn.net/wp-content/uploads/2023/06/cropped-logo-salernitana-448x448.png" group-title="Eventi Live",Soccer | Italy - Serie C : Virtus Casarano vs Salernitana (15:00)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovssalernitana" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Salernitana (15:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Virtus Casarano_vs_Salernitana.png" group-title="Eventi Live",Soccer | Italy - Serie C : Virtus Casarano vs Salernitana (15:00)
 https://thedaddy.dad/stream/stream-151.php
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovssalernitana" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Salernitana (15:00)" tvg-logo="https://salernitana.b-cdn.net/wp-content/uploads/2023/06/cropped-logo-salernitana-448x448.png" group-title="Eventi Live",Soccer | Italy - Serie C : Virtus Casarano vs Salernitana (15:00)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovssalernitana" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Salernitana (15:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Virtus Casarano_vs_Salernitana.png" group-title="Eventi Live",Soccer | Italy - Serie C : Virtus Casarano vs Salernitana (15:00)
 https://thedaddy.dad/stream/stream-461.php
 
 #EXTINF:-1 tvg-id="bundesligafreiburgvshoffenheim" tvg-name="Soccer | Bundesliga : Freiburg vs Hoffenheim (15:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Freiburg_vs_Hoffenheim.png" group-title="Eventi Live",Soccer | Bundesliga : Freiburg vs Hoffenheim (15:30)
@@ -1012,22 +1020,19 @@ https://thedaddy.dad/stream/stream-882.php
 #EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (13:00)" tvg-logo="https://www.phenomenalglobe.com/wp-content/uploads/2019/12/Tokyo-Tower-at-night.jpg" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (13:00)
 https://thedaddy.dad/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="moto2japansgrandprixrace" tvg-name="Motorsport | Moto 2 : Japan's Grand Prix Race (04:50)" tvg-logo="https://sicurisullastrada.it/wp-content/uploads/2024/07/2-14.png" group-title="Eventi Live",Motorsport | Moto 2 : Japan's Grand Prix Race (04:50)
-https://thedaddy.dad/stream/stream-575.php
-
-#EXTINF:-1 tvg-id="motogpgrandprixofjapanrace" tvg-name="Motorsport | MotoGP : Grand Prix of Japan Race (06:15)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live",Motorsport | MotoGP : Grand Prix of Japan Race (06:15)
+#EXTINF:-1 tvg-id="motogpgrandprixofjapanrace" tvg-name="Motorsport | MotoGP : Grand Prix of Japan Race (06:15)" tvg-logo="https://www.roadracingworld.com/wp-content/uploads/2022/09/e8e62f23-57e2-fa31-5fc8-7df4059c05b4_1662486118-e1663172879228.jpg" group-title="Eventi Live",Motorsport | MotoGP : Grand Prix of Japan Race (06:15)
 https://thedaddy.dad/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="worldchampionshipsseoulmensboulderfinal" tvg-name="Climbing | World Championships | Seoul Men's Boulder | Final (12:00)" tvg-logo="http://pluspng.com/img-png/globe-hd-png-download-png-image-earth-png-pic-1107.png" group-title="Eventi Live",Climbing | World Championships | Seoul Men's Boulder | Final (12:00)
 https://thedaddy.dad/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="uciroadworldchampionshipselitemensroadracekigali2675km" tvg-name="Cycling | UCI Road World Championships Elite Men's Road Race | Kigali (267.5km) (09:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Road World Championships Elite Men's Road Race | Kigali (267.5km) (09:30)
+#EXTINF:-1 tvg-id="uciroadworldchampionshipselitemensroadracekigali2675km" tvg-name="Cycling | UCI Road World Championships Elite Men's Road Race | Kigali (267.5km) (09:30)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Logo.png" group-title="Eventi Live",Cycling | UCI Road World Championships Elite Men's Road Race | Kigali (267.5km) (09:30)
 https://thedaddy.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="uciroadworldchampionshipswomeneliteroadracekigali1646km" tvg-name="Cycling | UCI Road World Championships Women Elite Road Race | Kigali (164.6km) (16:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Road World Championships Women Elite Road Race | Kigali (164.6km) (16:15)
+#EXTINF:-1 tvg-id="uciroadworldchampionshipswomeneliteroadracekigali1646km" tvg-name="Cycling | UCI Road World Championships Women Elite Road Race | Kigali (164.6km) (16:15)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Logo.png" group-title="Eventi Live",Cycling | UCI Road World Championships Women Elite Road Race | Kigali (164.6km) (16:15)
 https://thedaddy.dad/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="globalchampionstourviennashowjumping" tvg-name="Equestrian | Global Champions Tour | Vienna show jumping (20:00)" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b89d98214434995.67583b94b4558.png" group-title="Eventi Live",Equestrian | Global Champions Tour | Vienna show jumping (20:00)
+#EXTINF:-1 tvg-id="globalchampionstourviennashowjumping" tvg-name="Equestrian | Global Champions Tour | Vienna show jumping (20:00)" tvg-logo="https://cdn.pixabay.com/photo/2013/03/30/00/10/world-97864_1280.png" group-title="Eventi Live",Equestrian | Global Champions Tour | Vienna show jumping (20:00)
 https://thedaddy.dad/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="serieacapursovscatania" tvg-name="Futsal | Serie A : Capurso vs Catania (20:45)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Capurso_vs_Catania.png" group-title="Eventi Live",Futsal | Serie A : Capurso vs Catania (20:45)
