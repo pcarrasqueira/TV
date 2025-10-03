@@ -155,6 +155,8 @@ https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -289,6 +291,8 @@ https://thedaddy.dad/stream/stream-857.php
 https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5
 https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 MEDIASET
+https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://thedaddy.dad/stream/stream-854.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET 1
@@ -311,10 +315,14 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
+https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
 https://vavoo.to/vavoo-iptv/play/2586615238c67a91af5daa
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
@@ -379,8 +387,6 @@ https://thedaddy.dad/stream/stream-859.php
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
 https://thedaddy.dad/stream/stream-867.php
-#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
-https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
@@ -393,8 +399,6 @@ https://thedaddy.dad/stream/stream-865.php
 https://thedaddy.dad/stream/stream-864.php
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://thedaddy.dad/stream/stream-860.php
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -431,10 +435,10 @@ https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://thedaddy.dad/stream/stream-877.php
-#EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
-https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (D)
 https://thedaddy.dad/stream/stream-878.php
+#EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2
+https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 https://thedaddy.dad/stream/stream-879.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
@@ -465,6 +469,8 @@ https://thedaddy.dad/stream/stream-876.php
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.dad/stream/stream-462.php
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.dad/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
@@ -561,6 +567,8 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -597,22 +605,22 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecpianesevslivorno" tvg-name="Soccer | Italy - Serie C : Pianese vs Livorno (20:30)" tvg-logo="https://i.pinimg.com/originals/9c/c7/5e/9cc75e8fd52f64669a0dceb708cb0c29.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pianese vs Livorno (20:30)
+#EXTINF:-1 tvg-id="italyseriecpianesevslivorno" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Livorno (20:30)" tvg-logo="https://logodix.com/logo/2144110.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Livorno (20:30)
 https://thedaddy.dad/stream/stream-77.php
 
-#EXTINF:-1 tvg-id="italyseriecriminivsarezzo" tvg-name="Soccer | Italy - Serie C : Rimini vs Arezzo (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Rimini_vs_Arezzo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Rimini vs Arezzo (20:30)
+#EXTINF:-1 tvg-id="italyseriecriminivsarezzo" tvg-name="All Soccer Events | Italy - Serie C : Rimini vs Arezzo (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Rimini_vs_Arezzo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Rimini vs Arezzo (20:30)
 https://thedaddy.dad/stream/stream-86.php
 
-#EXTINF:-1 tvg-id="italyserieclatinavsbenevento" tvg-name="Soccer | Italy - Serie C : Latina vs Benevento (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Latina_vs_Benevento.png" group-title="Eventi Live",Soccer | Italy - Serie C : Latina vs Benevento (20:30)
+#EXTINF:-1 tvg-id="italyserieclatinavsbenevento" tvg-name="All Soccer Events | Italy - Serie C : Latina vs Benevento (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Latina_vs_Benevento.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Latina vs Benevento (20:30)
 https://thedaddy.dad/stream/stream-105.php
 
-#EXTINF:-1 tvg-id="bundesligahoffenheimvsköln" tvg-name="Soccer | Bundesliga : Hoffenheim vs Köln (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Hoffenheim_vs_Köln.png" group-title="Eventi Live",Soccer | Bundesliga : Hoffenheim vs Köln (20:30)
+#EXTINF:-1 tvg-id="bundesligahoffenheimvsköln" tvg-name="All Soccer Events | Bundesliga : Hoffenheim vs Köln (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Hoffenheim_vs_Köln.png" group-title="Eventi Live",All Soccer Events | Bundesliga : Hoffenheim vs Köln (20:30)
 https://thedaddy.dad/stream/stream-2.php
 
-#EXTINF:-1 tvg-id="italyserieahellasveronavssassuolo" tvg-name="Soccer | Italy - Serie A : Hellas Verona vs Sassuolo (20:45)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Hellas Verona_vs_Sassuolo.png" group-title="Eventi Live",Soccer | Italy - Serie A : Hellas Verona vs Sassuolo (20:45)
+#EXTINF:-1 tvg-id="italyserieahellasveronavssassuolo" tvg-name="All Soccer Events | Italy - Serie A : Hellas Verona vs Sassuolo (20:45)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Hellas Verona_vs_Sassuolo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Hellas Verona vs Sassuolo (20:45)
 https://thedaddy.dad/stream/stream-15.php
 
-#EXTINF:-1 tvg-id="italyserieahellasveronavssassuolo" tvg-name="Soccer | Italy - Serie A : Hellas Verona vs Sassuolo (20:45)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Hellas Verona_vs_Sassuolo.png" group-title="Eventi Live",Soccer | Italy - Serie A : Hellas Verona vs Sassuolo (20:45)
+#EXTINF:-1 tvg-id="italyserieahellasveronavssassuolo" tvg-name="All Soccer Events | Italy - Serie A : Hellas Verona vs Sassuolo (20:45)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Hellas Verona_vs_Sassuolo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A : Hellas Verona vs Sassuolo (20:45)
 https://thedaddy.dad/stream/stream-870.php
 
 #EXTINF:-1 tvg-id="2025rolexshanghaimasterstennisearlyroundcoverageday3" tvg-name="Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 (06:30)" tvg-logo="https://obj.shine.cn/files/2017/09/18/079e2141-ea35-4452-a245-7a226a16de77_0.png" group-title="Eventi Live",Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 (06:30)
@@ -636,16 +644,16 @@ https://thedaddy.dad/stream/stream-575.php
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiapractice1" tvg-name="Motorsport | MotoGP : Greek Grand Prix of Indonesia Practice 1 (07:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Greek Grand Prix of Indonesia Practice 1 (07:15)
 https://thedaddy.dad/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice1" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)
+#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice1" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/04/F1-Formula-One-Logo.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)
 https://thedaddy.dad/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice2" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)
+#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice2" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/04/F1-Formula-One-Logo.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)
 https://thedaddy.dad/stream/stream-577.php
 
 #EXTINF:-1 tvg-id="seriea2mestrevsbalturcento" tvg-name="Basketball | Serie A2 : Mestre vs Baltur Cento (20:55)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Mestre_vs_Baltur Cento.png" group-title="Eventi Live",Basketball | Serie A2 : Mestre vs Baltur Cento (20:55)
 https://thedaddy.dad/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="2025europeanroadchampionshipsmixedteamtimetrialfromdromeardeche" tvg-name="Cycling | 2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)" tvg-logo="https://boucles-drome-ardeche.fr/wp-content/uploads/2016/03/Prime_MC_BDA_20200120_01-e1581622322382-1024x1024.png" group-title="Eventi Live",Cycling | 2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)
+#EXTINF:-1 tvg-id="2025europeanroadchampionshipsmixedteamtimetrialfromdromeardeche" tvg-name="Cycling | 2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)" tvg-logo="https://uspr.fr/wp-content/uploads/2022/07/Logo-District-600x669.png" group-title="Eventi Live",Cycling | 2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)
 https://thedaddy.dad/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="croracestage4menkrklabin1875km" tvg-name="Cycling | Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)
