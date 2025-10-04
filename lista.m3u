@@ -9,6 +9,10 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
+https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
+https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
@@ -287,8 +291,6 @@ https://thedaddy.dad/stream/stream-857.php
 https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5
 https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 MEDIASET
-https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://thedaddy.dad/stream/stream-854.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET 1
@@ -313,8 +315,6 @@ https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
-https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
 https://vavoo.to/vavoo-iptv/play/2586615238c67a91af5daa
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
@@ -351,6 +351,8 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
@@ -379,8 +381,12 @@ https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 https://thedaddy.dad/stream/stream-867.php
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://thedaddy.dad/stream/stream-866.php
+#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
+https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://thedaddy.dad/stream/stream-865.php
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
@@ -429,6 +435,8 @@ https://thedaddy.dad/stream/stream-877.php
 https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (D)
 https://thedaddy.dad/stream/stream-878.php
+#EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2
+https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 https://thedaddy.dad/stream/stream-879.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
@@ -655,7 +663,7 @@ https://thedaddy.dad/stream/stream-190.php
 #EXTINF:-1 tvg-id="franceligue1metzvsolympiquemarseille" tvg-name="All Soccer Events | France - Ligue 1 : Metz vs Olympique Marseille (17:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Metz_vs_Olympique Marseille.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : Metz vs Olympique Marseille (17:00)
 https://thedaddy.dad/stream/stream-17.php
 
-#EXTINF:-1 tvg-id="italyseriebspeziavspalermo" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)" tvg-logo="https://www.italia.it/content/dam/tdh/en/interests/sicilia/palermo/palermo-in-48-ore/media/1600X1000_cosa_vedere_a_palermo_hero.jpg" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)
+#EXTINF:-1 tvg-id="italyseriebspeziavspalermo" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Spezia_vs_Palermo.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Spezia vs Palermo (17:15)
 https://thedaddy.dad/stream/stream-152.php
 
 #EXTINF:-1 tvg-id="italyseriecrenatevscittadella" tvg-name="All Soccer Events | Italy - Serie C : Renate vs Cittadella (17:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Renate_vs_Cittadella.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Renate vs Cittadella (17:30)
@@ -700,7 +708,7 @@ https://thedaddy.dad/stream/stream-461.php
 #EXTINF:-1 tvg-id="2025rolexshanghaimasterstennisearlyroundcoverageday9" tvg-name="Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 9 (06:30)" tvg-logo="https://png.pngtree.com/png-clipart/20241008/original/pngtree-calendar-2025-color-calendar-vector-png-image_16248596.png" group-title="Eventi Live",Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 9 (06:30)
 https://thedaddy.dad/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="beijingwtasemifinalsshanghaiatp2ndround" tvg-name="Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="https://news.cgtn.com/news/2023-03-01/Bell-and-Drum-Towers-a-highlight-of-Central-Axis-of-Beijing-1hOMITSqMeI/img/865a16ab4cb64bb09d6b2e687b47b6e8/865a16ab4cb64bb09d6b2e687b47b6e8-750.png" group-title="Eventi Live",Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
+#EXTINF:-1 tvg-id="beijingwtasemifinalsshanghaiatp2ndround" tvg-name="Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Beijing_montage_1.png/1200px-Beijing_montage_1.png" group-title="Eventi Live",Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
 https://thedaddy.dad/stream/stream-576.php
 
 #EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiaqualifying" tvg-name="Motorsport | Moto3 : Greek Grand Prix of Indonesia Qualifying (07:00)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto3 : Greek Grand Prix of Indonesia Qualifying (07:00)
@@ -724,7 +732,7 @@ https://thedaddy.dad/stream/stream-878.php
 #EXTINF:-1 tvg-id="touroflangkawistage7menmelakamedini2149km" tvg-name="Cycling | Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)" tvg-logo="https://www.pinclipart.com/picdir/big/212-2127349_tour-travel-png-vectors-tours-and-travels-png.png" group-title="Eventi Live",Cycling | Tour of Langkawi | Stage 7 Men | Melaka – Medini (214.9km) (08:00)
 https://thedaddy.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="uecroadeuropeanchampionshipswomenseliteroadraceprivasguilherandgranges117km" tvg-name="Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="http://www.uarc.uec.ac.jp/2022UEC_Seminar/uec.png" group-title="Eventi Live",Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
+#EXTINF:-1 tvg-id="uecroadeuropeanchampionshipswomenseliteroadraceprivasguilherandgranges117km" tvg-name="Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
 https://thedaddy.dad/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="girodellemiliawomen2025" tvg-name="Cycling | Giro dell'Emilia - Women 2025 (17:20)" tvg-logo="https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/logo-giro.png?v=a590fcc0cb243940a9b7ed7eb6123a5d" group-title="Eventi Live",Cycling | Giro dell'Emilia - Women 2025 (17:20)
