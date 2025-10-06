@@ -1240,6 +1240,10 @@
                     {
                         "channel_name": "UniMas",
                         "channel_id": "133"
+                    },
+                    {
+                        "channel_name": "Spectrum SportsNet LA",
+                        "channel_id": "764"
                     }
                 ]
             },
@@ -1876,16 +1880,6 @@
                     {
                         "channel_name": "USA Network",
                         "channel_id": "343"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "All Elite Wrestling (AEW) : Dynamite LIVE",
-                "channels": [
-                    {
-                        "channel_name": "TBS USA",
-                        "channel_id": "336"
                     }
                 ]
             },
@@ -2626,7 +2620,7 @@
                 ]
             }
         ],
-        "WWE</span>": [
+        "WWE (AEW/NXT)</span>": [
             {
                 "time": "00:00",
                 "event": "WWE NXT",
@@ -2646,6 +2640,16 @@
                     {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "All Elite Wrestling (AEW) : Dynamite LIVE",
+                "channels": [
+                    {
+                        "channel_name": "TBS USA",
+                        "channel_id": "336"
                     }
                 ]
             }
@@ -2732,7 +2736,7 @@
                 ]
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "20:08",
                 "event": "MLB : Seattle Mariners vs Detroit Tigers",
@@ -2934,7 +2938,9 @@
                         "channel_id": "430"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA</span>": [
             {
                 "time": "23:00",
                 "event": "NBA : Cleveland Cavaliers vs Chicago Bulls",
@@ -3292,7 +3298,9 @@
                         "channel_id": "5"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL</span>": [
             {
                 "time": "21:00",
                 "event": "NHL : Florida Panthers vs Chicago Blackhawks",
