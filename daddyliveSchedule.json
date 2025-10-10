@@ -3362,7 +3362,7 @@
                 ]
             }
         ],
-        "Soccer</span>": [
+        "Ireland Republic</span>": [
             {
                 "time": "18:45",
                 "event": "Ireland Republic - First Division : Dundalk vs Finn Harps",
@@ -3422,7 +3422,9 @@
                         "channel_id": "162"
                     }
                 ]
-            },
+            }
+        ],
+        "LaLiga Promises U-12</span>": [
             {
                 "time": "13:00",
                 "event": "F\u00fatbol LaLiga Promises U12 : Athletic de Bilbao vs. Club Atl\u00e9tico Madrid",
@@ -3512,7 +3514,9 @@
                         "channel_id": "375"
                     }
                 ]
-            },
+            }
+        ],
+        "All Soccer Events</span>": [
             {
                 "time": "12:00",
                 "event": "Europe U20 Elite League : Portugal U20 vs Germany U20",
@@ -4726,6 +4730,134 @@
                 ]
             }
         ],
+        "Tennis ATP - SHANGHAI</span>": [
+            {
+                "time": "04:30",
+                "event": "ATP - SHANGHAI : Arevalo M./Pavic M. vs Goransson A./Michelsen A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "ATP - SHANGHAI : Rinderknech A. vs Auger-Aliassime F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - SHANGHAI : Medvedev D. vs De Minaur A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - SHANGHAI : Roger & Friends Celebrity Doubles",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - WUHAN</span>": [
+            {
+                "time": "03:00",
+                "event": "WTA - WUHAN : Siniakova K. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "07:00",
+                "event": "WTA - WUHAN : Sabalenka A. vs Rybakina E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - WUHAN : Siegemund L. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - WUHAN : Paolini J. vs Swiatek I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "11:00",
@@ -4904,7 +5036,7 @@
                 ]
             }
         ],
-        "MMA</span>": [
+        "MMA (Fight)</span>": [
             {
                 "time": "12:30",
                 "event": "ONE Friday Fights 128",
@@ -5006,7 +5138,7 @@
                 ]
             }
         ],
-        "WWE</span>": [
+        "WWE (SmackDown)</span>": [
             {
                 "time": "00:00",
                 "event": "WWE Friday Night SmackDown",
@@ -5244,7 +5376,7 @@
                 ]
             }
         ],
-        "Am. Football</span>": [
+        "Am. Football (NCAAF)</span>": [
             {
                 "time": "23:00",
                 "event": "College Football : Cornell vs Harvard",
@@ -5356,10 +5488,10 @@
                 ]
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "00:08",
-                "event": "MLB : Detroit Tigers vs Seattle Mariners",
+                "event": "MLB Finals : Detroit Tigers vs Seattle Mariners",
                 "channels": [
                     {
                         "channel_name": "MLB League Pass",
@@ -5590,36 +5722,6 @@
                 ]
             },
             {
-                "time": "00:00",
-                "event": "WNBA : Phoenix Mercury W vs Las Vegas Aces W",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 2 UK",
-                        "channel_id": "32"
-                    },
-                    {
-                        "channel_name": "ESPN USA",
-                        "channel_id": "44"
-                    },
-                    {
-                        "channel_name": "TSN4",
-                        "channel_id": "114"
-                    },
-                    {
-                        "channel_name": "ESPN Deportes",
-                        "channel_id": "375"
-                    },
-                    {
-                        "channel_name": "TV4 Sportkanalen",
-                        "channel_id": "707"
-                    },
-                    {
-                        "channel_name": "ESPN2 BR",
-                        "channel_id": "82"
-                    }
-                ]
-            },
-            {
                 "time": "01:00",
                 "event": "Women's Rapid League : Hoiho vs Queens",
                 "channels": [
@@ -5628,7 +5730,9 @@
                         "channel_id": "591"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA</span>": [
             {
                 "time": "12:00",
                 "event": "NBA : Phoenix Suns vs Brooklyn Nets",
@@ -5700,6 +5804,38 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "5"
+                    }
+                ]
+            }
+        ],
+        "WNBA</span>": [
+            {
+                "time": "00:00",
+                "event": "WNBA : Phoenix Mercury W vs Las Vegas Aces W",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 2 UK",
+                        "channel_id": "32"
+                    },
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
+                    },
+                    {
+                        "channel_name": "TSN4",
+                        "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
+                    },
+                    {
+                        "channel_name": "TV4 Sportkanalen",
+                        "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "ESPN2 BR",
+                        "channel_id": "82"
                     }
                 ]
             }
@@ -6034,26 +6170,6 @@
                 ]
             },
             {
-                "time": "23:00",
-                "event": "College Hockey : Michigan vs Providence",
-                "channels": [
-                    {
-                        "channel_name": "NESN USA",
-                        "channel_id": "762"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "College Hockey : Miami (Ohio) at RPI",
-                "channels": [
-                    {
-                        "channel_name": "SportsNet New York USA",
-                        "channel_id": "759"
-                    }
-                ]
-            },
-            {
                 "time": "17:30",
                 "event": "DEL : Konferenz",
                 "channels": [
@@ -6210,6 +6326,28 @@
                     {
                         "channel_name": "TV4 Sportkanalen Sweden",
                         "channel_id": "707"
+                    }
+                ]
+            }
+        ],
+        "College Hockey</span>": [
+            {
+                "time": "23:00",
+                "event": "College Hockey : Michigan vs Providence",
+                "channels": [
+                    {
+                        "channel_name": "NESN USA",
+                        "channel_id": "762"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "College Hockey : Miami (Ohio) at RPI",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet New York USA",
+                        "channel_id": "759"
                     }
                 ]
             }
@@ -6416,7 +6554,9 @@
                         "channel_id": "47"
                     }
                 ]
-            },
+            }
+        ],
+        "NCAA Women's Volleyball</span>": [
             {
                 "time": "23:00",
                 "event": "Women's College Volleyball : Ole Miss vs Mississippi State",
