@@ -9,8 +9,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
@@ -89,8 +87,6 @@ https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
-https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5
@@ -143,8 +139,6 @@ https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
 https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro",RETE ORO
 https://vavoo.to/vavoo-iptv/play/3351863213ae83540f4e1e
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RETE SOLE
-https://vavoo.to/vavoo-iptv/play/36929275131676477efa1e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.retetvitalia.it/news/wp-content/uploads/2019/07/cropped-RTI-L.png" group-title="Altro",RETE TV ITALIA
 https://vavoo.to/vavoo-iptv/play/413105501853266fc8e1b9
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="Altro",RETE VENETA
@@ -153,6 +147,8 @@ https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -295,8 +291,6 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
-#EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
-https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 
 # DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -383,8 +377,6 @@ https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 https://thedaddy.dad/stream/stream-867.php
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://thedaddy.dad/stream/stream-866.php
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -433,8 +425,6 @@ https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://thedaddy.dad/stream/stream-877.php
-#EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
-https://vavoo.to/vavoo-iptv/play/34480753177564a146da63
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (D)
 https://thedaddy.dad/stream/stream-878.php
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2
@@ -443,8 +433,6 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://thedaddy.dad/stream/stream-879.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",RETESOLE LAZIO
-https://vavoo.to/vavoo-iptv/play/1971490284ce4effc4ca8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
 https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
@@ -599,30 +587,6 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsnovara" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)" tvg-logo="https://www.novarafootballclub.it/wp-content/uploads/2021/09/cropped-logo-novara-favicon.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giana Erminio vs Novara (14:30)
-https://thedaddy.dad/stream/stream-170.php
-
-#EXTINF:-1 tvg-id="italyseriecperugiavsrimini" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Rimini (14:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Perugia_vs_Rimini.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Perugia vs Rimini (14:30)
-https://thedaddy.dad/stream/stream-2.php
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavscrotone" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Crotone (14:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Foggia_vs_Crotone.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Foggia vs Crotone (14:30)
-https://thedaddy.dad/stream/stream-3.php
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovscatania" tvg-name="All Soccer Events | Italy - Serie C : Giugliano vs Catania (14:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Giugliano_vs_Catania.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giugliano vs Catania (14:30)
-https://thedaddy.dad/stream/stream-4.php
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovscatania" tvg-name="All Soccer Events | Italy - Serie C : Giugliano vs Catania (14:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Giugliano_vs_Catania.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giugliano vs Catania (14:30)
-https://thedaddy.dad/stream/stream-870.php
-
-#EXTINF:-1 tvg-id="italyseriecpicernovscasertana" tvg-name="All Soccer Events | Italy - Serie C : Picerno vs Casertana (14:30)" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Picerno vs Casertana (14:30)
-https://thedaddy.dad/stream/stream-171.php
-
-#EXTINF:-1 tvg-id="worldcupqualifyinglatviavsandorra" tvg-name="All Soccer Events | World Cup Qualifying : Latvia vs Andorra (15:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/latvia-logo-png-transparent.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Latvia vs Andorra (15:00)
-https://thedaddy.dad/stream/stream-14.php
-
-#EXTINF:-1 tvg-id="italyserieawomenjuventusvscomo" tvg-name="All Soccer Events | Italy - Serie A (women) : Juventus vs Como (15:00)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Juventus_vs_Como.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Juventus vs Como (15:00)
-https://thedaddy.dad/stream/stream-877.php
-
 #EXTINF:-1 tvg-id="italyserieawomenfiorentinavsintermilano" tvg-name="All Soccer Events | Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Fiorentina_vs_Inter Milano.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Fiorentina vs Inter Milano (17:30)
 https://thedaddy.dad/stream/stream-55.php
 
@@ -661,15 +625,6 @@ https://thedaddy.dad/stream/stream-461.php
 
 #EXTINF:-1 tvg-id="worldcupqualifyingestoniavsitaly" tvg-name="All Soccer Events | World Cup Qualifying : Estonia vs Italy (20:45)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Estonia_vs_Italy.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Estonia vs Italy (20:45)
 https://thedaddy.dad/stream/stream-850.php
-
-#EXTINF:-1 tvg-id="touroflombardycomobergamo238kmuciworldtour" tvg-name="Cycling | Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png/preview" group-title="Eventi Live",Cycling | Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)
-https://thedaddy.dad/stream/stream-851.php
-
-#EXTINF:-1 tvg-id="touroflombardycomobergamo238kmuciworldtour" tvg-name="Cycling | Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png/preview" group-title="Eventi Live",Cycling | Tour of Lombardy. Como - Bergamo (238 km). UCI World Tour (14:45)
-https://thedaddy.dad/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="serieaeliteviadanavsmogliano" tvg-name="Rugby Union | Serie A Elite : Viadana vs Mogliano (14:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Viadana_vs_Mogliano.png" group-title="Eventi Live",Rugby Union | Serie A Elite : Viadana vs Mogliano (14:30)
-https://thedaddy.dad/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="italyseriea1womenpallavoloscandiccivsperugiavolley" tvg-name="Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)" tvg-logo="https://raw.githubusercontent.com/firenellox99/yoro/main/logos/Pallavolo Scandicci_vs_Perugia Volley.png" group-title="Eventi Live",Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs. Perugia Volley (20:30)
 https://thedaddy.dad/stream/stream-882.php
