@@ -3316,7 +3316,7 @@
                 ]
             },
             {
-                "time": "21:29",
+                "time": "00:41",
                 "event": "179:45 Chicago Marathon '25",
                 "channels": [
                     {
@@ -3376,6 +3376,18 @@
                     {
                         "channel_name": "FOX USA",
                         "channel_id": "54"
+                    },
+                    {
+                        "channel_name": "Sportsnet East",
+                        "channel_id": "408"
+                    },
+                    {
+                        "channel_name": "Sportsnet Ontario",
+                        "channel_id": "406"
+                    },
+                    {
+                        "channel_name": "Sportsnet West",
+                        "channel_id": "407"
                     },
                     {
                         "channel_name": "Fox Deportes",
@@ -5332,7 +5344,7 @@
                 ]
             }
         ],
-        "Soccer</span>": [
+        "All Soccer Events</span>": [
             {
                 "time": "18:45",
                 "event": "Ireland Republic - Premier Division : Cork City vs Shelbourne",
@@ -6448,7 +6460,7 @@
                 ]
             }
         ],
-        "WWE</span>": [
+        "WWE (RAW)</span>": [
             {
                 "time": "00:00",
                 "event": "WWE Monday Night RAW",
@@ -6606,7 +6618,7 @@
                 ]
             }
         ],
-        "Am. Football</span>": [
+        "Am. Football (NFL)</span>": [
             {
                 "time": "17:00",
                 "event": "CFL : Montreal Alouettes vs Ottawa Redblacks",
@@ -6762,7 +6774,7 @@
                 ]
             }
         ],
-        "Baseball</span>": [
+        "Baseball (MLB)</span>": [
             {
                 "time": "21:00",
                 "event": "MLB : Seattle Mariners vs Toronto Blue Jays",
@@ -6882,7 +6894,9 @@
                         "channel_id": "754"
                     }
                 ]
-            },
+            }
+        ],
+        "NBA</span>": [
             {
                 "time": "22:00",
                 "event": "NBA : Atlanta Hawks vs Miami Heat",
@@ -7064,7 +7078,9 @@
                         "channel_id": "431"
                     }
                 ]
-            },
+            }
+        ],
+        "NHL</span>": [
             {
                 "time": "16:30",
                 "event": "NHL : Colorado Avalanche vs Buffalo Sabres",
