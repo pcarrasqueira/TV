@@ -1,7 +1,5 @@
 name: RUN SCRIPT LISTA
 on:
-  schedule:
-    - cron: '0 */2 * * *'  # Esegui ogni 2 ore
   workflow_dispatch:  # Consente l'esecuzione manuale
 
 jobs:
