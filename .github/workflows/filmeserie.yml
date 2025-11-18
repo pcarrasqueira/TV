@@ -1,8 +1,6 @@
 name: Download and Update FILM and SERIE List
 
 on:
-  schedule:
-    - cron: '0 */12 * * *'  # Esegui ogni 12 ore
   workflow_dispatch:
 
 jobs:
